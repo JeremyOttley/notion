@@ -1,0 +1,2 @@
+# notion
+NotionWM Configuration
